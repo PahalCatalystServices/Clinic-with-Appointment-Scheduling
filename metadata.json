@@ -1,0 +1,6 @@
+{
+  "name": "Jaipur Health",
+  "description": "Comprehensive healthcare scheduling and clinical management platform for patients and doctors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
